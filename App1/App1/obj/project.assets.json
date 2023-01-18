@@ -547,9 +547,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\App1.csproj",
-      "projectName": "App1",
-      "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\Transactions.csproj",
+      "projectName": "Transactions",
+      "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\Transactions.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",

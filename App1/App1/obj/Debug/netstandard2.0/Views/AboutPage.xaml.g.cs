@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.Views.AboutPage.xaml", "Views/AboutPage.xaml", typeof(global::App1.Views.AboutPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Transactions.Views.AboutPage.xaml", "Views/AboutPage.xaml", typeof(global::App1.Views.AboutPage))]
 
 namespace App1.Views {
     

@@ -171,7 +171,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "Transactions/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -179,10 +179,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         }
       }
     },
@@ -356,7 +356,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "Transactions/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -364,10 +364,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         }
       }
     },
@@ -541,7 +541,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "Transactions/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -549,10 +549,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         }
       }
     },
@@ -726,7 +726,7 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "App1/1.0.0": {
+      "Transactions/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -734,10 +734,10 @@
           "Xamarin.Forms": "5.0.0.2196"
         },
         "compile": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         },
         "runtime": {
-          "bin/placeholder/App1.dll": {}
+          "bin/placeholder/Transactions.dll": {}
         }
       }
     }
@@ -1048,15 +1048,15 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "App1/1.0.0": {
+    "Transactions/1.0.0": {
       "type": "project",
-      "path": "../App1/App1.csproj",
-      "msbuildProject": "../App1/App1.csproj"
+      "path": "../App1/Transactions.csproj",
+      "msbuildProject": "../App1/Transactions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
-      "App1 >= 1.0.0",
+      "Transactions >= 1.0.0",
       "Xamarin.Essentials >= 1.7.0",
       "Xamarin.Forms >= 5.0.0.2196"
     ]
@@ -1068,9 +1068,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1.iOS\\Transactions.iOS.csproj",
       "projectName": "App1.iOS",
-      "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1.iOS\\App1.iOS.csproj",
+      "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1.iOS\\Transactions.iOS.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1.iOS\\obj\\",
       "projectStyle": "PackageReference",
@@ -1093,8 +1093,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\App1.csproj": {
-              "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\App1.csproj"
+            "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\Transactions.csproj": {
+              "projectPath": "C:\\Users\\user\\PPTX\\Xamarin\\App1\\App1\\Transactions.csproj"
             }
           }
         }

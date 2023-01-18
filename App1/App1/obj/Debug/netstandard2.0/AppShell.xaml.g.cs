@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("App1.AppShell.xaml", "AppShell.xaml", typeof(global::App1.AppShell))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("Transactions.AppShell.xaml", "AppShell.xaml", typeof(global::App1.AppShell))]
 
 namespace App1 {
     
