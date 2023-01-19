@@ -18,3 +18,4 @@ C:\Users\user\PPTX\Xamarin\Transactions\Transactions\obj\Debug\netstandard2.0\Tr
 C:\Users\user\PPTX\Xamarin\Transactions\Transactions\obj\Debug\netstandard2.0\refint\Transactions.dll
 C:\Users\user\PPTX\Xamarin\Transactions\Transactions\obj\Debug\netstandard2.0\Transactions.pdb
 C:\Users\user\PPTX\Xamarin\Transactions\Transactions\obj\Debug\netstandard2.0\ref\Transactions.dll
+C:\Users\user\PPTX\Xamarin\Transactions\Transactions\obj\Debug\netstandard2.0\Views\Newpage.xaml.g.cs
